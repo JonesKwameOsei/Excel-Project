@@ -12,6 +12,8 @@ Data Analysis with Excel
 - HLookup
 - XLookup
 - Index and Match
+- Array 
 - Pivot Tables
 - Dashboards
+- Macros
 - VBA
