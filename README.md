@@ -1,5 +1,5 @@
 # Excel-Project
-Data Analysis with Excel
+Data Analysis with Excel: Utilised advanced and robust Excel functions to analyse various datasets to uncover insights and produce actionable solutions to promote business operations.
 
 ## Functions and Formulas
 - IF and Nested IFS
